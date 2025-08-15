@@ -54,7 +54,7 @@ As part of the \*\*Data Science Fundamentals with Python\*\* course, I applied m
 
 ```bash
 
-git clone https://github.com/<your-username>/heart-disease-modeling.git
+git clone https://github.com/tushar-y124/heart-disease-modeling.git
 
 cd heart-disease-modeling
 
